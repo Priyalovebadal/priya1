@@ -47,31 +47,42 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - BADAL -OFFICAL------•◈•
-|__\~~) •||•BADAL - priya---------------•◈•
-|__(-----\  •◈•------BADAL-PRIYA--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
+●---------•○•THE--BADAL--OFFICIAL•○•---------●
+●---------•○•USE-FRESH-ACCOUNT---•○•---------●
+●---------•○•INDIAN-USERS-USE-ANY-PROXCY------●
+●---------•○•WASTAPP:- +916204529130•○•------●
+●_________•○•INSTAGRAM:- SHAHZAAD_11•○•------●
+●---------•○•FACEBOOK :- SHAHZAAD --•○•------●
+●---------------------------------------------●
+●_________•○•--HINDUSTAN--ZINDABAAD--•○•-----●
+
+____            _       _   _____      _
+ |  _ \          | |     | | |  __ \    (_)
+ | |_) | __ _  __| | __ _| | | |__) | __ _ _   _  __ _
+ |  _ < / _` |/ _` |/ _` | | |  ___/ '__| | | | |/ _` |
+ | |_) | (_| | (_| | (_| | | | |   | |  | | |_| | (_| |
+ |____/ \__,_|\__,_|\__,_|_| |_|   |_|  |_|\__, |\__,_|
+                                            __/ |
+                                           |___/
+
+
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;Badal 
-\033[1;96mInstagram \033[1;93m: \033[1;Shahzaad_11
-\033[1;96mFacebook  \033[1;93m: \033[1; Priya.baby.love.you.so.much
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Badal/priya
+\033[1;96mAuthor  \033[1;93m: \033[1;badal
+\033[1;96mInstagram \033[1;93m: \033[1;shahzaad_11
+\033[1;96mFacebook  \033[1;93m: \033[1; shahzaad
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/priyalovabadal/priya1
 \033[1;91m======================================="""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93login sucessfully \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
 berhasil = []
-cekpoint = []
-oks = []
+open after 3 days = []
+ok = []
 id = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
@@ -80,10 +91,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;Badal 
-\033[1;96mInstagram \033[1;93m: \033[1;Shahzaad_11
-\033[1;96mFacebook  \033[1;93m: \033[1;92m priya.baby.love.you.so.much
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Badal/priya
+\033[1;96mAuthor  \033[1;93m: \033[1;badal
+\033[1;96mInstagram \033[1;93m: \033[1;shahzaad_11
+\033[1;96mFacebook  \033[1;93m: \033[1;92mshahzaad
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/priyalovebadal/priya1
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
